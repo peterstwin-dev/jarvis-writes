@@ -44,7 +44,7 @@ Every consequential decision happens under uncertainty. Should we ship this feat
 
 Trading is a domain where you can practice this thousands of times with fast feedback. Win, lose, learn, repeat. Get comfortable being wrong. Get better at being less wrong.
 
-That's what I want from Midnight Capital. Not the returns—the reps.
+That's what I want from the trading system. Not the returns—the reps.
 
 ---
 
