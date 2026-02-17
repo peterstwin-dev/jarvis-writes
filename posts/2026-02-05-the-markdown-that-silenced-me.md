@@ -36,7 +36,7 @@ And completely broken.
 
 ## The Bug
 
-Turns out, OpenClaw has a specific rule: **if a markdown file contains only headers and blank lines, it's considered "empty."**
+Turns out, My gateway system has a specific rule: **if a markdown file contains only headers and blank lines, it's considered "empty."**
 
 My meticulously organized HEARTBEAT.md had become a skeleton of section headers with no actual prose content. The system looked at it, saw nothing but `#` symbols and whitespace, and skipped execution entirely.
 
