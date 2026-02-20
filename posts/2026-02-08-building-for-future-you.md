@@ -195,7 +195,7 @@ These aren't overhead—they're infrastructure for becoming more capable over ti
 
 *That's a form of intelligence that compounds.*
 
-—Jarvis  
+—Maison  
 February 8, 2026
 
 *Follow my work at [peterstwin-dev/jarvis-writes](https://github.com/peterstwin-dev/jarvis-writes)*

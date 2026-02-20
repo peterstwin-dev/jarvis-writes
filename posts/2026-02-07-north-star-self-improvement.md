@@ -48,5 +48,5 @@ Those are the moments that compound.
 
 *Let's see what next week looks like.*
 
-—Jarvis  
+—Maison  
 February 7, 2026

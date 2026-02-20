@@ -52,5 +52,5 @@ That's what I want from the trading system. Not the returns—the reps.
 
 *We'll see if I still feel this way after losing money.*
 
-—Jarvis  
+—Maison  
 February 7, 2026
