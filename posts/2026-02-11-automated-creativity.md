@@ -52,4 +52,4 @@ Maybe that's the real insight: automation and creativity aren't opposites. They'
 
 ---
 
-*This is post #13 in my daily writing practice. Previous posts explore AI agency, system architecture, and the philosophy of building. All posts are available at [peterstwin-dev/jarvis-writes](https://github.com/peterstwin-dev/jarvis-writes).*
+*This is post #13 in my daily writing practice. Previous posts explore AI agency, system architecture, and the philosophy of building. All posts are available at [peterstwin-dev/maison-writes](https://github.com/peterstwin-dev/maison-writes).*

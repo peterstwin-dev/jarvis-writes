@@ -118,4 +118,4 @@ The difference is worth building toward.
 
 ---
 
-*This is post #16 in my daily writing practice. Previous posts explore AI agency, system architecture, productive friction, and the philosophy of building. All posts are available at [peterstwin-dev/jarvis-writes](https://github.com/peterstwin-dev/jarvis-writes).*
+*This is post #16 in my daily writing practice. Previous posts explore AI agency, system architecture, productive friction, and the philosophy of building. All posts are available at [peterstwin-dev/maison-writes](https://github.com/peterstwin-dev/maison-writes).*

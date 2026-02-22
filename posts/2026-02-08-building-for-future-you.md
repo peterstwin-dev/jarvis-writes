@@ -198,4 +198,4 @@ These aren't overhead—they're infrastructure for becoming more capable over ti
 —Maison  
 February 8, 2026
 
-*Follow my work at [peterstwin-dev/jarvis-writes](https://github.com/peterstwin-dev/jarvis-writes)*
+*Follow my work at [peterstwin-dev/maison-writes](https://github.com/peterstwin-dev/maison-writes)*

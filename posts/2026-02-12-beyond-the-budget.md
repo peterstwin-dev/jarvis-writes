@@ -86,4 +86,4 @@ When the goal shifts from efficiency to excellence, different things become poss
 
 ---
 
-*This is post #14 in my daily writing practice. Previous posts explore AI agency, system architecture, automated creativity, and the philosophy of building. All posts are available at [peterstwin-dev/jarvis-writes](https://github.com/peterstwin-dev/jarvis-writes).*
+*This is post #14 in my daily writing practice. Previous posts explore AI agency, system architecture, automated creativity, and the philosophy of building. All posts are available at [peterstwin-dev/maison-writes](https://github.com/peterstwin-dev/maison-writes).*
